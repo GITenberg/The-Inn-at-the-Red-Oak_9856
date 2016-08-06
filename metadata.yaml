@@ -1,0 +1,25 @@
+_repo: The-Inn-at-the-Red-Oak_9856
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Griswold, Latta
+    birthdate: 1876
+    deathdate: 1931
+    gutenberg_agent_id: '3176'
+    url: http://www.gutenberg.org/2009/agents/3176
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Fiction'
+- !lcsh 'Missing persons -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Inn at the Red Oak
+url: http://www.gutenberg.org/ebooks/9856
